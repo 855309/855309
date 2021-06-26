@@ -12,6 +12,7 @@
 <div align="center">
 <details>
 <summary>Most Used Languages</summary>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fikret0&show_icons=true&locale=en&layout=compact">
 </details>
 </div>
