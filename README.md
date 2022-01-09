@@ -3,7 +3,7 @@
 
 ```c
 #include "85530.h"
-/* Ethereum: 0xBA2A3fE995e827D578a572fE15daD948f62B63Df   */
+/* Ethereum: 0xBA2A3fE995e827D578a572fE15daD948f62B63Df */
 ```
 </div>
 <br>
