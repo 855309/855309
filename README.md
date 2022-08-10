@@ -8,13 +8,13 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fikret0"></img></div>
+<img src="https://github-readme-stats.vercel.app/api?username=855309"></img></div>
 <br>
 <div align="center">
 <details>
 <summary>Most Used Languages</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fikret0&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=855309&show_icons=true&locale=en&layout=compact">
 </details>
 </div>
 <br>
