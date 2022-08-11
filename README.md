@@ -23,6 +23,4 @@
 </div>
 <br>
 <div align="center">
-  
-![passed](https://badgen.net/badge/github/passed%20%F0%9F%98%8E/green?icon=github)
 </div>
